@@ -1,9 +1,6 @@
 - 👋 Hi, I’m S@nkalp!!!
 - 👀 I’m interested in Music,travel,and very very important!!!!!!!! CODING😁😉
-- 🌱 I’m done 2 internship as frontend and full-stack developer for 6 and 4 months accordingly.
-- 💞️ I’m looking for an organization which would offer me a healthy Work culture, an atmosphere that
-     enhances my professional Skills and offer a challenging work environment and excellent Growth
-     perspect.
+- 🌱 I’m a full-stack developer With 2 years of experience.
      
 - 📫 How to reach me:- 
 - via linkedin:- https://www.linkedin.com/in/sankalp-vipradas-0b2486144/
